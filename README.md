@@ -19,8 +19,15 @@
   
   </br>
   
-## 🔗 Link da aplicação no ar: https://formulario-event.netlify.app/
+  ## 📖 Conceitos e técnicas aprendidas.
+
+- [x] Tags semânticas para utilizar em formulários.
+- [x] Os types possíveis da tag input.
+- [x] Como deixar inputs obrigatórios de preencher com a propriedade "required".
+- [x] Como definir o número mínimo de caracteres a serem digitados dentro dos campos de input com a propriedade "minlength".
+- [x] Acessibilidade e Customização de campos como: Checkbox e Select.
   
+## 🔗 Link da aplicação no ar: https://formulario-event.netlify.app/
   
 ## :rocket: Tecnologias
 
